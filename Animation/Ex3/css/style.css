@@ -1,0 +1,30 @@
+div{
+    text-align: center;
+    border: 0.2rem black solid;
+    width: 13rem;
+    height: 6rem;
+    padding-top: 2rem;
+    font-size: 1.3rem;
+    animation-name: aparicion;
+    animation-duration: 2s;
+    position: relative;
+}
+@keyframes aparicion{
+    from{
+        top: 10000rem;
+        left: 10000rem;
+    }
+    to{
+        top: 42%;
+        left: 42%;
+    }
+}
+.boto{
+    background-color: blue;
+    font-weight: bold;
+    color: white;
+}
+.boto2{
+    color: blue;
+    border: blue solid;
+}

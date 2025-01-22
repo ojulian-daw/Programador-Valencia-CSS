@@ -1,0 +1,17 @@
+div{
+    margin-top: 2rem;
+    margin-left: 10rem;
+}
+.image{
+    animation-name: giro;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+@keyframes giro {
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}

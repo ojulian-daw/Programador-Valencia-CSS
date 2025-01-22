@@ -1,0 +1,29 @@
+.sol{
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    background-color: yellow;
+    margin-top: 8%;
+    margin-left: 45%;
+}
+@keyframes eclipse {
+    from {
+        left: 0rem;
+      }
+    
+      to {
+        left: 50rem;
+      }
+    }
+.luna{
+    width: 9.5rem;
+    height: 9.5rem;
+    border-radius: 50%;
+    background-color: gray;
+    margin-top: -9.5rem;
+    animation-name: eclipse;
+    animation-duration: 4s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    position: relative;
+}
