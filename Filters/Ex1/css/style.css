@@ -1,0 +1,7 @@
+div{
+    margin-top: 3rem;
+    margin-left: 3rem;
+}
+.imagen:hover{
+    filter: grayscale(100%);
+}
