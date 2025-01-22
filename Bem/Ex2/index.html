@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Activitat 2</title>
+</head>
+<body>
+    <style>
+        .titulo1{
+            color: red;
+            font-size: 30px;
+        }
+        .titulo2{
+            color: red;
+            font-size: 25px;
+        }
+        .comentario{
+            color: black;
+            font-size: 15px;
+        }
+        .nombre{
+            color: darkblue;
+            font-size: 22px;
+        }
+    </style>
+    <header>
+        <h1 class="titulo1">Sistema de comentarios</h1>
+        <h2 class="titulo2">Introduce tus comentarios o lee los de la comunidad</h2>
+    </header>
+    <h3 class="titulo2">Introduce tu comentario</h3>
+    <form id="form1">
+        <label for="nom">Nombre: </label>
+        <input type="text" name="nom" required><br>
+        <label for="apellido">Apellido: </label>
+        <input type="apellido" name="apellido" required>
+        <label for="comentario">Comentario</label>
+        <textarea name="comentario" required></textarea><br>
+        <button type="submit" form="form1">Enviar</button>
+    </form>
+    <hr>
+    <h3 class="titulo2">Comentarios de la comunidad</h3>
+    <p class="comentario">
+        <span class="nombre">De: Carlos Esteven: </span>Bla bla blanbla bla bla bla bla bla.
+    </p>
+    <p class="comentario">
+        <span class="nombre">De: Spiderman: </span>Ja ja ja ja.
+    </p>
+</body>
+</html>
