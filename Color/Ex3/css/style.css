@@ -1,0 +1,36 @@
+.titulo1{
+    color: red;
+    font-size: 25px;
+}
+.titulo2{
+    color: red;
+    font-weight: bold;
+    font-size: 25px;
+}
+.texto1{
+    color: white;
+    background-color: red;
+}
+.texto2{
+    color: red;
+}
+.cursiva1{
+    color: gray;
+}
+.texto3{
+    font-weight: bold;
+    color: red;
+}
+.readmore{
+    text-decoration: underline;
+    color: red  ;
+}
+.footer1{
+    color: gray;
+    font-size: 10px;
+}
+.footer2{
+    font-size: 10px;
+        text-decoration: underline gray; 
+        color: red;
+}
