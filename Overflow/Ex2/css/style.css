@@ -1,0 +1,17 @@
+td{
+    max-height: 7rem;
+    border: 0.1rem black solid;
+    padding: 0.2rem;
+}
+tr{
+    overflow: visible;
+}
+caption{
+    font-family: sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+table{
+    overflow-x: auto;
+    width: 90%;
+}
