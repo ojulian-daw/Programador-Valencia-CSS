@@ -1,0 +1,68 @@
+.exterior{
+    border: 0.2rem solid lightgray;
+    width: 25%;
+}
+h2{
+    font-family: serif;
+    font-weight: lighter;
+    padding-left: 1.5rem;
+}
+.text{
+    padding-left: 1.5rem;
+    font-family: sans-serif;
+    font-size: 0.8rem;
+}
+.span1{
+    color: darkgray;
+    font-weight: bold;
+    padding-left: 1.5rem;
+    font-size: 0.9rem;
+}
+.dinero{
+    font-size: 0.8rem;
+    padding-left: 1.5rem;
+}
+.dinero1{
+    font-weight: bolder;
+    font-size: 1.7rem;
+}
+.contactos{
+    padding-left: 1.5rem;
+    color: darkcyan;
+    font-weight: bold;
+    font-size: 0.9rem;
+}
+.comprar{
+    text-align: center;
+    background-color: darkcyan;
+    font-size: 0.7rem;
+    font-weight: bold;
+    color: white;
+    width: 8rem;
+    margin-left: 4.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
+}
+.textospan{
+    padding-left: 1.5rem;
+    font-size: 0.8rem;
+    color: gray;
+}
+li{
+    padding-left: 1.5rem;
+    font-size: 1rem;
+    color: gray;
+    font-weight: bold;
+}
+.pie{
+    padding-left: 1.5rem;
+    color: darkcyan;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+    font-weight: bold;
+    font-size: 0.9rem;
+}
