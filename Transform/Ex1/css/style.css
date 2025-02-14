@@ -1,0 +1,10 @@
+button{
+    margin-top: 3rem;
+    margin-left: 3rem;
+    background-color: grey;
+    font-size: 2rem;
+    border: 0.2rem black solid;
+}
+button:hover{
+    transform: rotate(15deg);
+}

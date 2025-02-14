@@ -1,0 +1,17 @@
+div{
+    max-height: 7rem;
+    overflow: scroll;
+    border: 0.1rem black solid;
+}
+h1{
+    font-family: serif;
+}
+h2{
+    font-family: serif;
+}
+h3{
+    font-family: serif;
+}
+p{
+    font-family: sans-serif;
+}

@@ -1,0 +1,35 @@
+.text{
+    font-family: sans-serif;
+    font-size: 1.3rem;
+    background-color: lightgray;
+    margin-top: 3rem;
+    margin-left: 15rem;
+    margin-right: 15rem;
+    margin-bottom: 5rem;
+}
+.span1{
+    text-decoration: underline;
+}
+.text2{
+    font-family: serif;
+    font-weight: bolder;
+    font-size: 3rem;
+    margin-left: 15rem;
+    margin-top: 3rem;
+}
+.text3{
+    font-family: sans-serif;
+    font-size: 0.8rem;
+    margin-left: 15rem;
+    margin-right: 40rem;
+}
+.text4{
+    font-family: sans-serif;
+    font-size: 0.8rem;
+    margin-left: 15rem;
+    margin-top: 2rem;
+}
+.span2{
+    border: 1px solid black;
+    border-radius: 4rem;
+}

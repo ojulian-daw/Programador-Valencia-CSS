@@ -1,0 +1,15 @@
+h1{
+    margin-top: 3rem;
+    margin-left: 3rem;
+}
+div{
+    border: 0.2rem black solid;
+    margin-top: 1rem;
+    margin-left: 3rem;
+    width: 20rem;
+    font-size: 1rem;
+}
+div:hover{
+    width: 40rem;
+    font-size: 2rem;
+}

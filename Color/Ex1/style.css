@@ -1,0 +1,22 @@
+p{
+    font-size: 20px;
+}
+.clase1{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+.clase2{
+    color: yellow;
+}
+.fecha{
+    color: white;
+    background-color: blue;
+}
+.clase3{
+    color: purple;
+}
+.clase4{
+    color: white;
+    background-color: green;
+}

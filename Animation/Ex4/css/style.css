@@ -1,0 +1,46 @@
+.reloj{
+    width: 20rem;
+    height: 20rem;
+    margin-top: 5rem;
+    margin-left: 10rem;
+    border: 0.5rem brown solid;
+    border-radius: 50%;
+}
+.aguja1{
+    width: 0.5rem;
+    height: 9.5rem;
+    background-color: black;
+    left: 50%;
+    position: relative;
+    margin-top: 0.5rem;
+    animation-name: movimiento;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes movimento{
+    from{
+        
+    }
+    to{
+        
+    }
+}
+.aguja2{
+        width: 0.5rem;
+        height: 5.5rem;
+        background-color: black;
+        left: 50%;
+        position: relative;
+        margin-top: 0.5rem;
+        animation-name: movimiento2;
+        animation-duration: 4s;
+        animation-iteration-count: infinite;
+}
+@keyframes movimento2{
+    from{
+        
+    }
+    to{
+        
+    }
+}

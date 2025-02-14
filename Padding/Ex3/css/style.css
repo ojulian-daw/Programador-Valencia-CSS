@@ -1,0 +1,15 @@
+div{
+    border: black solid 0.1rem;
+    padding-left: 2rem;
+    padding-bottom: 0.75rem;
+    padding-top: 0.75;
+}
+p{
+    width: 30rem;
+    font-family: serif;
+    color: grey;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+}

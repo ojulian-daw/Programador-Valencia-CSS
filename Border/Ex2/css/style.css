@@ -1,0 +1,10 @@
+.imagen{
+    width: 15rem;
+    margin-top: 5rem;
+    margin-left: 5rem;
+    border-top: orange 1rem solid;
+    border-bottom: orange 1rem solid;
+    padding: 0.5rem;
+    border-left: orange 1rem dashed;
+    border-right: orange 1rem dashed;
+}

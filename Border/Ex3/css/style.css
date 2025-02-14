@@ -1,0 +1,11 @@
+.imagen{
+    width: 15rem;
+    margin-top: 5rem;
+    margin-left: 5rem;
+    border: red 0.6rem solid;
+    padding: 0.5rem;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+}

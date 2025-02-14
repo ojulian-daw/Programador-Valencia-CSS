@@ -1,0 +1,30 @@
+.margen{
+    margin-top: 5rem;
+    margin-left: 30rem;
+}
+.pendulo{
+    width: 1rem;
+    height: 15rem;
+    background-color: black;
+}
+.bolapendulo{
+    width: 5rem;
+    height: 5rem;
+    border: 0.3rem black solid;
+    border-radius: 50%;
+    background-color: brown;
+    position: relative;
+    right: 2rem;
+    bottom: 1rem;
+    animation-name: pendulo;
+    animation-delay: 1s;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}@keyframes pendulo{
+    from{
+
+    }
+    to{
+
+    }
+}
